@@ -1,0 +1,9 @@
+canvas {
+    display: block;
+    vertical-align: bottom;
+    min-height: 600px;
+}
+
+#particles-js {
+    background-color: #006CB6;
+}
