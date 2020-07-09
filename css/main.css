@@ -23,6 +23,35 @@
 }
 
 /*==================================================================
+  GLOBAL GLOBAL GLOBAL GLOBAL GLOBAL GLOBAL GLOBAL GLOBAL GLOBAL
+==================================================================*/
+
+*, *:before, *:after {
+	margin: 0px; 
+	padding: 0px; 
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body, html {
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	color: #666666;
+
+	height: 100%;
+	background-color: #fff;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+a:focus {outline: none;}
+a:hover {text-decoration: none;}
+
+p {margin: 0px;}
+
+/*==================================================================
   GENERAL GENERAL GENERAL GENERAL GENERAL GENERAL GENERAL GENERAL
 ==================================================================*/
 
@@ -246,7 +275,6 @@
 .wdss-social:hover {
   background-color: #555555;
   color: #fff;
-  text-decoration: "none";
 }
 
 .wdss-facebook {background-color: #3b5998;}
