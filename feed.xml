@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>DataBasic</title>
+    <googleplay:author>Warwick Data Science Society</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Coventry, United Kingdom</rawvoice:location>
+    <rawvoice:frequency>Monthly</rawvoice:frequency>
+    <author>Warwick Data Science Society</author>
+    <itunes:author>Warwick Data Science Society</itunes:author>
+    <itunes:email>hello@warwickdatascience.com</itunes:email>
+    <itunes:category text="Technology" />
+    <image>
+      <url>https://podcast.warwickdatascience.com/images/cover-art.png</url>
+      <title>DataBasic</title>
+      <link>https://podcast.warwickdatascience.com/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Warwick Data Science Society</itunes:name>
+      <itunes:email>hello@warwickdatascience.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>data, basic, databasic, science, podcast, university, of, warwick, society, student, simple, explained, teach, news, lesson, statistics, analytics, story, interview, expert, professional, industry, business</itunes:keywords>
+    <copyright>WDSS 2020</copyright>
+    <description>A WDSS podcast, DataBasic aims to make the field of data science assessible and clear, cutting through the hype and showcasing the details you need to know</description>
+    <googleplay:image href="https://podcast.warwickdatascience.com/images/cover-art.png"/>
+    <language>en-gb</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Sun, 12 Jul 2020 19:00:00 BST</pubDate>
+    <link>https://podcast.warwickdatascience.com/feed.xml</link>
+    <itunes:image href="https://podcast.warwickdatascience.com/images/cover-art.png" />
+    <item>
+      <author>Yasser Qureshi, Tim Hargreaves</author>
+      <itunes:author>Yasser Qureshi, Tim Hargreaves</itunes:author>
+      <title>#0: Hello, World!</title>
+      <pubDate>Sun, 12 Jul 2020 19:00:00 BST</pubDate>
+      <enclosure url="https://podcast.warwickdatascience.com/audio/databasic-e0.mp3" type="audio/mpeg" length="8009051" />
+      <itunes:duration>8:20</itunes:duration>
+      <guid isPermaLink="false">dbpod0</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Episode Host(s):        
+
+Yasser Qureshi - https://www.linkedin.com/in/yasser-qureshi/
+
+Episode Guest(s):
+        
+Tim Hargreaves - https://www.linkedin.com/in/tim-hargreaves/
+
+------------------
+
+Show Notes:
+
+Arithmetic with words - https://research.warwickdatascience.com/word2vec
+        
+Research at WDSS - https://research.warwickdatascience.com
+        
+Suggestions - https://podcast.warwickdatascience.com/suggestions
+        
+------------------
+        
+Follow WDSS on Social Media:
+
+https://rebrand.ly/wdss-facebook
+        
+https://rebrand.ly/wdss-linkedin
+
+https://rebrand.ly/wdss-youtube
+        
+https://rebrand.ly/wdss-instagram
+        
+Get In Touch:
+        
+hello@warwickdatascience.com
+        </description>
+    </item>
+  </channel>
+</rss>
