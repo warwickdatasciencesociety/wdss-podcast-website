@@ -73,5 +73,47 @@ Get In Touch:
 hello@warwickdatascience.com
         </description>
     </item>
+    <item>
+      <author>Srinivas Billa, Tim Hargreaves</author>
+      <itunes:author>Yasser Qureshi, Tim Hargreaves</itunes:author>
+      <title>#1: Julia with Hannes Smit</title>
+      <pubDate>Wed, 19 Jul 2020 19:00:00 BST</pubDate>
+      <enclosure url="https://podcast.warwickdatascience.com/audio/databasic-e1.mp3" type="audio/mpeg" length="66122253" />
+      <itunes:duration>27:33</itunes:duration>
+      <guid isPermaLink="false">dbpod1</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Episode Host(s):        
+
+Srinivas Billa - https://www.linkedin.com/in/yasser-qureshi/
+Tim Hargreaves - https://www.linkedin.com/in/tim-hargreaves/
+
+Episode Guest(s):
+
+Hannes Smit - https://www.linkedin.com/in/hasnep/
+        
+------------------
+
+Show Notes:
+
+Apply for a graduate job - johannes.smit@amey.co.uk
+        
+------------------
+        
+Follow WDSS on Social Media:
+
+https://rebrand.ly/wdss-facebook
+        
+https://rebrand.ly/wdss-linkedin
+
+https://rebrand.ly/wdss-youtube
+        
+https://rebrand.ly/wdss-instagram
+        
+Get In Touch:
+        
+hello@warwickdatascience.com
+        </description>
+    </item>
   </channel>
 </rss>
