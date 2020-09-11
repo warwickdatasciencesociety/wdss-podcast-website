@@ -60,13 +60,13 @@ Suggestions - https://podcast.warwickdatascience.com/suggestions
         
 Follow WDSS on Social Media:
 
-https://rebrand.ly/wdss-facebook
+https://link.wdss.io/facebook
         
-https://rebrand.ly/wdss-linkedin
+https://link.wdss.io/linkedin
 
-https://rebrand.ly/wdss-youtube
+https://link.wdss.io/youtube
         
-https://rebrand.ly/wdss-instagram
+https://link.wdss.io/instagram
         
 Get In Touch:
         
@@ -75,7 +75,7 @@ hello@warwickdatascience.com
     </item>
     <item>
       <author>Srinivas Billa, Tim Hargreaves</author>
-      <itunes:author>Yasser Qureshi, Tim Hargreaves</itunes:author>
+      <itunes:author>Srinivas Billa, Tim Hargreaves</itunes:author>
       <title>#1: Julia with Hannes Smit</title>
       <pubDate>Wed, 19 Aug 2020 19:00:00 BST</pubDate>
       <enclosure url="https://podcast.warwickdatascience.com/audio/databasic-e1.mp3" type="audio/mpeg" length="66122253" />
@@ -102,13 +102,58 @@ Apply for a graduate job - johannes.smit@amey.co.uk
         
 Follow WDSS on Social Media:
 
-https://rebrand.ly/wdss-facebook
+https://link.wdss.io/facebook
         
-https://rebrand.ly/wdss-linkedin
+https://link.wdss.io/linkedin
 
-https://rebrand.ly/wdss-youtube
+https://link.wdss.io/youtube
         
-https://rebrand.ly/wdss-instagram
+https://link.wdss.io/instagram
+        
+Get In Touch:
+        
+hello@warwickdatascience.com
+        </description>
+    </item>
+    <item>
+      <author>Tim Hargreaves, Ciaran Evans</author>
+      <itunes:author>Tim Hargreaves, Ciaran Evans</itunes:author>
+      <title>#2: Eric Siegel</title>
+      <pubDate>Fri, 11 Sep 2020 18:00:00 BST</pubDate>
+      <enclosure url="https://podcast.warwickdatascience.com/audio/databasic-e2.mp3" type="audio/mpeg" length="71283004" />
+      <itunes:duration>29:42</itunes:duration>
+      <guid isPermaLink="false">dbpod2</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Episode Host(s):        
+
+Tim Hargreaves - https://www.linkedin.com/in/tim-hargreaves/
+Ciaran Evans - https://www.linkedin.com/in/ciaran-evans-9226b3186/
+
+Episode Guest(s):
+
+Eric Siegel - https://www.linkedin.com/in/predictiveanalytics/
+        
+------------------
+
+Show Notes:
+
+Rap Video - https://www.youtube.com/watch?v=bSP3z0LmWEg
+Predictive Analytics World - https://www.predictthis.org 
+Op-eds - https://www.civilrightsdata.com 
+Machine Learning for Everyone - https://www.machinelearning.courses 
+        
+------------------
+        
+Follow WDSS on Social Media:
+
+https://link.wdss.io/facebook
+        
+https://link.wdss.io/linkedin
+
+https://link.wdss.io/youtube
+        
+https://link.wdss.io/instagram
         
 Get In Touch:
         
