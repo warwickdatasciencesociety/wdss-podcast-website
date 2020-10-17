@@ -8,32 +8,32 @@
     <rawvoice:frequency>Monthly</rawvoice:frequency>
     <author>Warwick Data Science Society</author>
     <itunes:author>Warwick Data Science Society</itunes:author>
-    <itunes:email>hello@warwickdatascience.com</itunes:email>
+    <itunes:email>hello@wdss.io</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://podcast.warwickdatascience.com/images/cover-art.png</url>
+      <url>https://podcast.wdss.io/images/cover-art.png</url>
       <title>DataBasic</title>
-      <link>https://podcast.warwickdatascience.com/</link>
+      <link>https://podcast.wdss.io/</link>
     </image>
     <itunes:owner>
       <itunes:name>Warwick Data Science Society</itunes:name>
-      <itunes:email>hello@warwickdatascience.com</itunes:email>
+      <itunes:email>hello@wdss.io</itunes:email>
     </itunes:owner>
     <itunes:keywords>data, basic, databasic, science, podcast, university, of, warwick, society, student, simple, explained, teach, news, lesson, statistics, analytics, story, interview, expert, professional, industry, business</itunes:keywords>
     <copyright>WDSS 2020</copyright>
     <description>A WDSS podcast, DataBasic aims to make the field of data science assessible and clear, cutting through the hype and showcasing the details you need to know</description>
-    <googleplay:image href="https://podcast.warwickdatascience.com/images/cover-art.png"/>
+    <googleplay:image href="https://podcast.wdss.io/images/cover-art.png"/>
     <language>en-gb</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Sun, 12 Jul 2020 19:00:00 BST</pubDate>
-    <link>https://podcast.warwickdatascience.com/feed.xml</link>
-    <itunes:image href="https://podcast.warwickdatascience.com/images/cover-art.png" />
+    <link>https://podcast.wdss.io/feed.xml</link>
+    <itunes:image href="https://podcast.wdss.io/images/cover-art.png" />
     <item>
       <author>Yasser Qureshi, Tim Hargreaves</author>
       <itunes:author>Yasser Qureshi, Tim Hargreaves</itunes:author>
       <title>#0: Hello, World!</title>
       <pubDate>Sun, 12 Jul 2020 19:00:00 BST</pubDate>
-      <enclosure url="https://podcast.warwickdatascience.com/audio/databasic-e0.mp3" type="audio/mpeg" length="8009051" />
+      <enclosure url="https://podcast.wdss.io/audio/databasic-e0.mp3" type="audio/mpeg" length="8009051" />
       <itunes:duration>8:20</itunes:duration>
       <guid isPermaLink="false">dbpod0</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -50,11 +50,11 @@ Tim Hargreaves - https://www.linkedin.com/in/tim-hargreaves/
 
 Show Notes:
 
-Arithmetic with words - https://research.warwickdatascience.com/word2vec
+Arithmetic with words - https://research.wdss.io/word2vec
         
-Research at WDSS - https://research.warwickdatascience.com
+Research at WDSS - https://research.wdss.io
         
-Suggestions - https://podcast.warwickdatascience.com/suggestions
+Suggestions - https://podcast.wdss.io/suggestions
         
 ------------------
         
@@ -70,7 +70,7 @@ https://link.wdss.io/instagram
         
 Get In Touch:
         
-hello@warwickdatascience.com
+hello@wdss.io
         </description>
     </item>
     <item>
@@ -78,7 +78,7 @@ hello@warwickdatascience.com
       <itunes:author>Srinivas Billa, Tim Hargreaves</itunes:author>
       <title>#1: Julia with Hannes Smit</title>
       <pubDate>Wed, 19 Aug 2020 19:00:00 BST</pubDate>
-      <enclosure url="https://podcast.warwickdatascience.com/audio/databasic-e1.mp3" type="audio/mpeg" length="66122253" />
+      <enclosure url="https://podcast.wdss.io/audio/databasic-e1.mp3" type="audio/mpeg" length="66122253" />
       <itunes:duration>27:33</itunes:duration>
       <guid isPermaLink="false">dbpod1</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -112,7 +112,7 @@ https://link.wdss.io/instagram
         
 Get In Touch:
         
-hello@warwickdatascience.com
+hello@wdss.io
         </description>
     </item>
     <item>
@@ -120,7 +120,7 @@ hello@warwickdatascience.com
       <itunes:author>Tim Hargreaves, Ciaran Evans</itunes:author>
       <title>#2: Eric Siegel</title>
       <pubDate>Fri, 11 Sep 2020 18:00:00 BST</pubDate>
-      <enclosure url="https://podcast.warwickdatascience.com/audio/databasic-e2.mp3" type="audio/mpeg" length="71283004" />
+      <enclosure url="https://podcast.wdss.io/audio/databasic-e2.mp3" type="audio/mpeg" length="71283004" />
       <itunes:duration>29:42</itunes:duration>
       <guid isPermaLink="false">dbpod2</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -157,7 +157,49 @@ https://link.wdss.io/instagram
         
 Get In Touch:
         
-hello@warwickdatascience.com
+hello@wdss.io
+        </description>
+    </item>
+    <item>
+      <author>Jacobus Smit, Yasser Qureshi</author>
+      <itunes:author>Jacobus Smit, Yasser Qureshi</itunes:author>
+      <title>#3: AutoML with Shikhar Dev</title>
+      <pubDate>Fri, 16 Oct 2020 18:00:00 BST</pubDate>
+      <enclosure url="https://podcast.wdss.io/audio/databasic-e3.mp3" type="audio/mpeg" length="49650415" />
+      <itunes:duration>20:41</itunes:duration>
+      <guid isPermaLink="false">dbpod3</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Episode Host(s):        
+
+Jacobus Smit - https://www.linkedin.com/in/jacobus-smit/
+Yasser Qureshi - https://www.linkedin.com/in/yasser-qureshi/
+
+Episode Guest(s):
+
+Shikhar Dev - https://www.linkedin.com/in/shikhardev/
+        
+------------------
+
+Show Notes:
+
+Tom's research blog post - https://research.wdss.io/trump-effect/
+        
+------------------
+        
+Follow WDSS on Social Media:
+
+https://link.wdss.io/facebook
+        
+https://link.wdss.io/linkedin
+
+https://link.wdss.io/youtube
+        
+https://link.wdss.io/instagram
+        
+Get In Touch:
+        
+hello@wdss.io
         </description>
     </item>
   </channel>
