@@ -202,5 +202,41 @@ Get In Touch:
 hello@wdss.io
         </description>
     </item>
+    <item>
+      <author>Jacobus Smit, Janique Krasnowska</author>
+      <itunes:author>Jacobus Smit, Janique Krasnowska</itunes:author>
+      <title>#4: AutoML with Shikhar Dev</title>
+      <pubDate>Fri, 20 Nov 2020 18:00:00 BST</pubDate>
+      <enclosure url="https://podcast.wdss.io/audio/databasic-e4.mp3" type="audio/mpeg" length="85096928" />
+      <itunes:duration>1:10:55</itunes:duration>
+      <guid isPermaLink="false">dbpod4</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Episode Host(s):        
+
+Jacobus Smit - https://www.linkedin.com/in/jacobus-smit/
+Janique Krasnowska - https://www.linkedin.com/in/janique-krasnowska-94a1a0195
+
+Episode Guest(s):
+
+Jonathan Cave - https://warwick.ac.uk/fac/soc/economics/staff/jakcave/
+        
+------------------
+        
+Follow WDSS on Social Media:
+
+https://link.wdss.io/facebook
+        
+https://link.wdss.io/linkedin
+
+https://link.wdss.io/youtube
+        
+https://link.wdss.io/instagram
+        
+Get In Touch:
+        
+hello@wdss.io
+        </description>
+    </item>
   </channel>
 </rss>
