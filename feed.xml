@@ -238,5 +238,51 @@ Get In Touch:
 hello@wdss.io
         </description>
     </item>
+    <item>
+      <author>Jacobus Smit, Tim Hargreaves</author>
+      <itunes:author>Jacobus Smit, Tim Hargreaves</itunes:author>
+      <title>#5: Asking the Right Questions with Jane Hutton</title>
+      <pubDate>Wed, 30 Dec 2020 18:00:00 BST</pubDate>
+      <enclosure url="https://podcast.wdss.io/audio/databasic-e5.mp3" type="audio/mpeg" length="58513629" />
+      <itunes:duration>51:00</itunes:duration>
+      <guid isPermaLink="false">dbpod5</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Episode Host(s):        
+
+Jacobus Smit - https://www.linkedin.com/in/jacobus-smit/
+Tim Hargreaves - https://www.linkedin.com/in/tim-hargreaves
+
+Episode Guest(s):
+
+Jane Hutton - https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/
+        
+------------------
+
+Show Notes:
+
+RSS Report on A-level Grades Algorithm - https://rss.org.uk/news-publication/news-publications/2020/general-news/rss-responds%C2%A0to-inquiry-on-statistical-assessment/
+Prosecutor's Fallacy- https://en.wikipedia.org/wiki/Prosecutor%27s_fallacy
+Micromort - https://en.wikipedia.org/wiki/Micromort
+Paper explaining the Micromort - https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/1471-0528.12663
+RSS Journalism Awards - https://rss.org.uk/training-events/events/excellence-awards/journalism-awards/
+
+------------------
+        
+Follow WDSS on Social Media:
+
+https://link.wdss.io/facebook
+        
+https://link.wdss.io/linkedin
+
+https://link.wdss.io/youtube
+        
+https://link.wdss.io/instagram
+        
+Get In Touch:
+        
+hello@wdss.io
+        </description>
+    </item>
   </channel>
 </rss>
