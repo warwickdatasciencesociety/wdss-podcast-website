@@ -284,5 +284,48 @@ Get In Touch:
 hello@wdss.io
         </description>
     </item>
+    <item>
+      <author>Jacobus Smit, Larabella Myers</author>
+      <itunes:author>Jacobus Smit, Larabella Myers</itunes:author>
+      <title>#6: A Year in Review</title>
+      <pubDate>Wed, 20 Jan 2020 18:00:00 BST</pubDate>
+      <enclosure url="https://podcast.wdss.io/audio/databasic-e6.mp3" type="audio/mpeg" length="14028800" />
+      <itunes:duration>13:31</itunes:duration>
+      <guid isPermaLink="false">dbpod6</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Episode Host(s):        
+
+Jacobus Smit - https://www.linkedin.com/in/jacobus-smit/
+Larabella Myers - https://www.linkedin.com/in/larabella-myers/
+
+Episode Guest(s):
+
+Tim Hargreaves - https://www.linkedin.com/in/tim-hargreaves/
+        
+------------------
+
+Show Notes:
+
+Sign-up for our coding courses: https://www.facebook.com/warwickdatasciencesociety/posts/560540708162283
+WDSS Research Blog: http://research.wdss.io/
+
+------------------
+        
+Follow WDSS on Social Media:
+
+https://link.wdss.io/facebook
+        
+https://link.wdss.io/linkedin
+
+https://link.wdss.io/youtube
+        
+https://link.wdss.io/instagram
+        
+Get In Touch:
+        
+hello@wdss.io
+        </description>
+    </item>
   </channel>
 </rss>
